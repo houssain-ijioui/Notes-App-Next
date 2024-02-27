@@ -5,3 +5,4 @@ export default function Home() {
     <h1 className="text-center">Notes App</h1>
   );
 }
+
